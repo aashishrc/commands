@@ -1,0 +1,6 @@
+git add- adds a file
+cd (change directory)- cd.. :for going back
+    cd(space)(name of folder):to get into the folder
+git init: to iniatialize a folder
+git commit - m "(any message)"
+git push- to push all files to git hub
